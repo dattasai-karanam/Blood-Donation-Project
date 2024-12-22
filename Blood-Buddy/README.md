@@ -34,7 +34,7 @@
 
 **0.**  Create your own issue or choose one already mentioned in under issues section.
 
-**1.**  Fork [this]() repo.
+**1.**  Fork [this](https://github.com/dattasai-karanam/Blood-Donation-Project.git) repo.
 
 **2.**  Clone your fork copy of the project which'll be visible in your account.
 
@@ -105,5 +105,5 @@ git push -u origin <your_branch_name>
 <p align="center"><img width=35% src="https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif"></p>
 <hr>
 
- ✨This project and everyone participating in it is governed by **[Code Of Conduct]()** .By participating, you are expected to uphold this code.✨
+ ✨This project and everyone participating in it is governed by **[Code Of Conduct](https://github.com/dattasai-karanam/Blood-Donation-Project.git)** .By participating, you are expected to uphold this code.✨
 

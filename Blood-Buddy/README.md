@@ -34,7 +34,7 @@
 
 **0.**  Create your own issue or choose one already mentioned in under issues section.
 
-**1.**  Fork [this](https://github.com/2024-SANDHYA/Bloody-Buddy.git) repo.
+**1.**  Fork [this]() repo.
 
 **2.**  Clone your fork copy of the project which'll be visible in your account.
 
@@ -105,5 +105,5 @@ git push -u origin <your_branch_name>
 <p align="center"><img width=35% src="https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif"></p>
 <hr>
 
- ✨This project and everyone participating in it is governed by **[Code Of Conduct](https://github.com/2024-SANDHYA/Blood-Buddy/blob/ff0d5e26c7e6db3ffd7851bccae2acc30a840106/Code%20Of%20Conduct.md)** .By participating, you are expected to uphold this code.✨
+ ✨This project and everyone participating in it is governed by **[Code Of Conduct]()** .By participating, you are expected to uphold this code.✨
 
